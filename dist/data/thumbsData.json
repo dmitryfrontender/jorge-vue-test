@@ -1,0 +1,142 @@
+[
+	{
+		"id": 1,
+		"title": "Photography",
+		"images": [
+			{
+				"id": 1,
+				"url": "./assets/images/image1.png",
+				"alt": "Image 1"
+			},
+			{
+				"id": 2,
+				"url": "./assets/images/image2.png",
+				"alt": "Image 2"
+			}
+		],
+		"description": "Every photograph we produce finds the beauty in your property while serving as a profitable asset.",
+		"list": [
+			{
+				"id": 1,
+				"text": "Drone Photography"
+			},
+			{
+				"id": 2,
+				"text": "Interiors"
+			},
+			{
+				"id": 3,
+				"text": "Exteriors / Architectural"
+			}
+		]
+	},
+    {
+		"id": 2,
+		"title": "Virtual Staging",
+		"images": [
+			{
+				"id": 1,
+				"url": "./assets/images/image3.png",
+				"alt": "Image 3"
+			}
+		],
+		"description": "Our staging will help you sell the potential of your space.",
+		"additionalDescription": "We can work off of our own photography or photos you provide."
+	},
+    {
+		"id": 3,
+		"title": "Renderings",
+		"images": [
+			{
+				"id": 1,
+				"url": "./assets/images/image4.png",
+				"alt": "Image 4"
+			}
+		],
+		"description": "Renderings are the gold standard in pre-construction marketing.",
+		"list": [
+			{
+				"id": 1,
+				"text": "Interiors"
+			},
+			{
+				"id": 2,
+				"text": "Exteriors"
+			}
+		]
+	},
+    {
+		"id": 4,
+		"title": "Interactive Tours",
+		"images": [
+			{
+				"id": 1,
+				"url": "./assets/images/image5.png",
+				"alt": "Image 5"
+			}
+		],
+		"description": "Give your audience the ability to explore your property without requiring in-person travel.",
+		"list": [
+			{
+				"id": 1,
+				"text": "Matterport"
+			},
+			{
+				"id": 2,
+				"text": "Video Walkthroughs"
+			}
+		]
+	},
+    {
+		"id": 5,
+		"title": "Floor Plans",
+		"images": [
+			{
+				"id": 1,
+				"url": "./assets/images/image6.png",
+				"alt": "Image 6"
+			}
+		],
+		"description": "We produce laser-precise floor plans faster than any other service.",
+		"list": [
+			{
+				"id": 1,
+				"text": "On-site Measure"
+			},
+			{
+				"id": 2,
+				"text": "2D Floor Plans"
+			},
+			{
+				"id": 3,
+				"text": "3D Floor Plans"
+			}
+		]
+	},
+    {
+		"id": 6,
+		"title": "Video",
+		"images": [
+			{
+				"id": 1,
+				"url": "./assets/images/image7.png",
+				"alt": "Image 7"
+			}
+		],
+		"description": "Video content has higher engagement and will help your property stand out online.",
+		"list": [
+			{
+				"id": 1,
+				"text": "Drone Cinematography"
+			},
+			{
+				"id": 2,
+				"text": "Interiors"
+			},
+			{
+				"id": 3,
+				"text": "Exteriors / Architectural"
+			}
+		]
+	}
+]
