@@ -73,7 +73,6 @@ h1 {
 .wrapper {
   width: 100%;
   padding: 109px 0;
-  background: #F5F5F8;
 }
 
 .container {

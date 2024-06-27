@@ -9,6 +9,10 @@ body {
   padding: 0;
 }
 
+body {
+  background: #F5F5F8;
+}
+
 #app {
   font-family: "Nunito Sans", sans-serif;
   -webkit-font-smoothing: antialiased;
